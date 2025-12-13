@@ -1,5 +1,5 @@
 #Básico: Crie uma lista com 5 frutas. Adicione mais 2 frutas, 
-#remova a primeira e imprima a lista ordenada.
+#remova a primeira fruta e imprima a lista ordenada.
 
 frutas = ['banana', 'melacia', 'uva','kiwi','pera']
 novas_frutas = ['maca','mamao']

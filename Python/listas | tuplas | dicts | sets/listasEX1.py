@@ -1,4 +1,4 @@
-#Básico: Crie uma lista com 5 frutas. Adicione mais 2 frutas, 
+#Crie uma lista com 5 frutas. Adicione mais 2 frutas, 
 #remova a primeira e imprima a lista ordenada.
 
 frutas = ['banana', 'melacia', 'uva','kiwi','pera']
